@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonInputFormatter-JsonException-ModelState", "App\JsonInputFormatter-JsonException-ModelState.csproj", "{5FE52028-1C8F-44FA-931A-F41F9B488D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests\Tests.csproj", "{1C32BF93-D747-4D62-AAF9-44609E25B28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE52028-1C8F-44FA-931A-F41F9B488D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE52028-1C8F-44FA-931A-F41F9B488D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE52028-1C8F-44FA-931A-F41F9B488D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE52028-1C8F-44FA-931A-F41F9B488D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C32BF93-D747-4D62-AAF9-44609E25B28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C32BF93-D747-4D62-AAF9-44609E25B28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C32BF93-D747-4D62-AAF9-44609E25B28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C32BF93-D747-4D62-AAF9-44609E25B28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF5FCE5-C504-4E15-AF0A-A93406B70356}
+	EndGlobalSection
+EndGlobal
